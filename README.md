@@ -3,6 +3,9 @@
 
 本书既可作为LabVIEW虚拟仪器项目开发和管理人员的技术参考书，也可作为计算机、虚拟仪器和自动化等专业的教材，或各类LabVIEW虚拟仪器项目开发和管理培训的参考用书。
 
-***本书计划于2022年6月底与大家见面，欢迎届时批评指正。***
+***本书由清华大学出版社支持出版，京东、当当，天猫等网店均有出售，可在各网店搜索书名“LabVIEW虚拟仪器项目开发与实践”订阅。***
 
 ![Untitled](https://user-images.githubusercontent.com/90971380/173079048-a3103c31-d18c-4f17-afd4-f1c873c050e9.png)
+![image](https://user-images.githubusercontent.com/90971380/182032703-f1f85ea3-f6ea-4c4b-85d6-a611ef867fc3.png)
+
+
