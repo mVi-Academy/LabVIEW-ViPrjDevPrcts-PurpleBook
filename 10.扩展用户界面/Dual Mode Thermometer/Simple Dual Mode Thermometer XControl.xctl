@@ -1,0 +1,40 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XControl LVVersion="20008000">
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+6!!!*Q(C=T:42&lt;2J"%):`IEDR7U1(%:1Q&amp;6CC"2@AFWG"6`TCH'5J^TQN]%)"N$#51!OU=0FO71A'GV-C)W789?`_W:HZ&lt;H?V5GFXUF&gt;V1_XB;PMH`UH;]H#I=RT0YLPJ&gt;&amp;L'T7:4ZZXYOUP`50Q&lt;`^`(0QT%HX``J]@X;N&gt;^'.^\[U&gt;]^0UH`H@KF`QXY.&gt;!P$11,V7_\FL]S2[_7`^C`Q@/XXE\TX]ZY?XZPN*O\R^I,/FC=.+.GT23@R&amp;BC18GG+FX&gt;9G?[)G?[)G?[)%?[)%?[)%?[)\O[)\O[)\O[):O[):O[):O[+7D#VXI1G&gt;6EO**I32JEC#:$)K3PY1HY5FY%BZ?F@!E0!F0QJ0Q-%5*4]+4]#1]#1^B3HA3HI1HY5FY3&amp;6)MH2U?")?UCPA#8A#HI!HY+'E!JY!)#A7*![3A+(!'4Q%0!&amp;0Q-/D!J[!*_!*?!)?X!JY!J[!*_!*?!AJKR+&amp;JO`I]*"'$I`$Y`!Y0!Y0K?8Q/$Q/D]0D]&amp;"/$I`$YU!Y":XE)-A*=C9Y,Q[0Q]-AB]@B=8A=(I=(6^EB,SP4U`1&gt;(2[$R_!R?!Q?AY=5-HA-(I0(Y$&amp;Y3#O$R_!R?!Q?AY&gt;3-HA-(I0(!$'+5FZ'-C01G'1)"A_`=FKM\&amp;)5%CO^P[H+Y65^F+K(4@51K2Y/V5V8X5T646*&gt;@.6&amp;66UMV561`4B6;&amp;59V3+KQ@V%\@D@9GNMC489((P!:NA%'`?BHTRRN^NJO^VKP6ZLO6SK;2L.ZX.R-7EWGWESG7A](OP1@N$X&lt;83YFR9]\_X\K'U&lt;\.&gt;I6=;GDAP'R=HY`,BK8_Z&lt;&lt;.5_XR`V6]98RO9H9`05PO\D&amp;\J\7OD&lt;[%_&gt;P?XPJ@`B&lt;N18\=@D'PU'9+GE2Q!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="Properties" Type="Folder">
+		<Item Name="Fahrenheit Mode?" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Fahrenheit Mode?</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Fahrenheit Mode?</Property>
+			<Item Name="[Property] Fahrenheit Mode Read.vi" Type="Property VI" URL="../[Property] Fahrenheit Mode Read.vi"/>
+			<Item Name="[Property] Fahrenheit Mode Write.vi" Type="Property VI" URL="../[Property] Fahrenheit Mode Write.vi"/>
+		</Item>
+	</Item>
+	<Item Name="Methods" Type="Folder">
+		<Item Name="Convert C to F.vi" Type="Method VI" URL="../Convert C to F.vi"/>
+	</Item>
+	<Item Name="VIs" Type="Folder">
+		<Item Name="C to F.vi" Type="VI" URL="../C to F.vi"/>
+		<Item Name="F to C.vi" Type="VI" URL="../F to C.vi"/>
+	</Item>
+	<Item Name="Simple Dual Mode Thermometer Data.ctl" Type="Ability VI" URL="../Simple Dual Mode Thermometer Data.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
+	</Item>
+	<Item Name="Simple Dual Mode Thermometer State.ctl" Type="Ability VI" URL="../Simple Dual Mode Thermometer State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="Simple Dual Mode Thermometer Facade.vi" Type="Ability VI" URL="../Simple Dual Mode Thermometer Facade.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Facade</Property>
+	</Item>
+	<Item Name="Simple Dual Mode Thermometer Init.vi" Type="Ability VI" URL="../Simple Dual Mode Thermometer Init.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
+	</Item>
+</XControl>

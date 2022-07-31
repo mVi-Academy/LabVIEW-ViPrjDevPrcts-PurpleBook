@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  myDll.cpp
+  Generating Code...
+     Creating library C:\Users\Techie\Desktop\myDll\Debug\myDll.lib and object C:\Users\Techie\Desktop\myDll\Debug\myDll.exp
+  myDll.vcxproj -> C:\Users\Techie\Desktop\myDll\Debug\myDll.dll

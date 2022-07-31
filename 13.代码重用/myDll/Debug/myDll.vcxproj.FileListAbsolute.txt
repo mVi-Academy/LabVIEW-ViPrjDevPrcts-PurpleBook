@@ -1,0 +1,2 @@
+C:\Users\Techie\Desktop\myDll\Debug\myDll.dll
+C:\Users\Techie\Desktop\myDll\Debug\myDll.pdb
